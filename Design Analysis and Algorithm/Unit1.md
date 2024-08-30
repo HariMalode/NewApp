@@ -18,14 +18,6 @@
 * **Automation:** Algorithms enable automation by automating repetitive tasks and processes.
 * **Robotics:** Robots rely on algorithms to navigate, perceive their environment, and perform tasks.
 
-Here are some examples of algorithms as technology:
-
-**1. Search Engines:** Search engines like Google and Bing use sophisticated algorithms to index vast amounts of information on the internet and retrieve relevant results based on user queries. These algorithms consider factors such as keyword matching, link analysis, and user behavior to provide accurate and helpful search results.
-
-**2. Recommendation Systems:** Websites like Netflix, Amazon, and Spotify employ algorithms to recommend products, movies, or songs based on a user's past behavior and preferences. These algorithms analyze user data to identify patterns and suggest items that the user is likely to enjoy.
-
-**3. Artificial Intelligence:** AI systems rely heavily on algorithms to perform tasks such as image recognition, natural language processing, and decision-making. For example, algorithms are used to train neural networks to identify objects in images or to enable AI assistants to understand and respond to human language.
-
 **Key Characteristics of Algorithms:**
 
 * **Well-defined:** Each step of an algorithm should be clearly defined and unambiguous.
@@ -354,12 +346,13 @@ These problem-solving strategies—divide and conquer, dynamic programming, gree
 ---
 
 ### Q9. Consider the following algorithm to find the square of a number:
-
+```
 int sqr(int n)
 {
 if (n==0) return 0;
 else return (2n + sqr(n-1)-1)
 }
+```
 
 Prove the correctness of this algorithm using principle of mathematical induction or otherwise
 
@@ -421,10 +414,8 @@ Here's why:
 
 In conclusion, while hardware advancements can improve performance, the study of algorithms remains essential for designing efficient, scalable, and sustainable software solutions.
 
-### Q11. Consider an array A of n integers which are already in sorted order. Let x
-
-be the number being searched in the array A in a liner fashion. The code fragment performing this task is given below: 
-
+### Q11. Consider an array A of n integers which are already in sorted order. Let x be the number being searched in the array A in a liner fashion. The code fragment performing this task is given below: 
+```
 int lin _ search (int A [])
 {
 i=0; flag=0;
@@ -435,7 +426,7 @@ i++;
 } while (i<n);
 return (0); // Number not found.
 }
-
+```
 Give answers:
 i) Is this code fragment efficient? (We wish to use linear search only).Justify your answer.
 ii) Does it attribute to any design issue with respect to iterative algorithm?Briefly explain.
