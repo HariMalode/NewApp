@@ -293,6 +293,16 @@ Machine Learning (ML), Artificial Intelligence (AI), and Data Science are closel
 - **Machine Learning (ML)** is a subset of AI that focuses on creating algorithms that can learn from data and make predictions or decisions without explicit programming.
 - **Data Science** is an interdisciplinary field focused on extracting insights and knowledge from data, often utilizing machine learning techniques as part of its analysis but also involving data collection, cleaning, and visualization.
 
+## Comparison of AI, ML, and DS
+
+| Feature | Artificial Intelligence (AI) | Machine Learning (ML) | Data Science (DS) |
+|---|---|---|---|
+| **Definition** | Broad field of computer science focused on creating intelligent agents that can reason, learn, and act autonomously. | Subfield of AI that focuses on algorithms that allow computers to learn from data without being explicitly programmed. | Interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data. |
+| **Scope** | Encompasses a wide range of techniques, including natural language processing, computer vision, robotics, and expert systems. | Primarily concerned with developing algorithms that can learn from data and make predictions or decisions. | Involves a broader range of tasks, including data collection, cleaning, exploration, analysis, and visualization. |
+| **Relationship** | ML is a subset of AI. DS is often used to prepare data for ML algorithms. | ML is a subset of AI. | DS is a broader field that encompasses ML and other techniques. |
+| **Goal** | To create intelligent systems that can perform tasks that would require human intelligence. | To develop algorithms that can learn from data and improve their performance over time. | To extract insights and knowledge from data to inform decision-making. |
+| **Techniques** | Neural networks, deep learning, genetic algorithms, expert systems, search algorithms. | Supervised learning, unsupervised learning, reinforcement learning, deep learning. | Data cleaning, data exploration, statistical analysis, data visualization, machine learning, predictive modeling. |
+| **Applications** | Autonomous vehicles, virtual assistants, medical diagnosis, fraud detection, recommendation systems. | Image recognition, natural language processing, speech recognition, predictive analytics, anomaly detection. | Business intelligence, market research, healthcare analytics, scientific research, social science research. |
 
 ---
 
