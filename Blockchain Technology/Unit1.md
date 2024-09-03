@@ -176,7 +176,7 @@ Hashing is a fundamental component of blockchain technology, providing several c
 * **Previous Block Hash:** Each block stores the hash of the previous block. This creates a chain of blocks, linking them together chronologically.
 * **Immutability:** Once a block is added to the chain, it becomes virtually impossible to alter without affecting subsequent blocks. This ensures the immutability of the blockchain.
 
-### 3. **Consensus Mechanism:**
+### 3. **Mining Mechanism:**
 * **Proof of Work (PoW):** In many blockchain networks, miners compete to find a hash value that meets specific criteria. This process, known as mining, is essential for achieving consensus on the validity of transactions and blocks.
 * **Security:** The computational effort required to find a valid hash makes it difficult for malicious actors to manipulate the network.
 
